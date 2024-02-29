@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MyStringArrayList
+comment1.params=
+comment1.target=MyStringArrayList()
+comment1.text=\r\n\ This\ default\ constructor\ sets\ the\ container\ capacity\ to\ be\ 10\ and\ size\ to\r\n\ 0,\ where\ container\ is\ empty.\r\n
+comment2.params=e
+comment2.target=void\ addLast(java.lang.String)
+comment3.params=
+comment3.target=boolean\ isFull()
+comment3.text=\ This\ method\ is\ only\ used\ by\ this\ class.\r\n\ returns\ true\ if\ this\ array\ list\ is\ full,\ otherwise\ returns\ false.\r\n
+comment4.params=
+comment4.target=int\ getSize()
+comment4.text=\r\n\ requires\:\ none\r\n\ ensures\:\ self.size\ \=\=\ \#self.size\r\n\ @return\ current\ size\ of\ this\ array\ list\r\n\ returns\ the\ current\ size\ (\#\ of\ elements)\ of\ this\ list\r\n
+comment5.params=e
+comment5.target=void\ addFront(java.lang.String)
+comment6.params=e
+comment6.target=boolean\ contains(java.lang.String)
+comment7.params=index
+comment7.target=java.lang.String\ getElement(int)
+comment8.params=a
+comment8.target=java.lang.String\ removeElementAt(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
